@@ -1,0 +1,1 @@
+(self.webpackChunkalextheking=self.webpackChunkalextheking||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/pt/blog/welcome"},{"title":"Hello","permalink":"/pt/blog/hello-world"},{"title":"Hola","permalink":"/pt/blog/hola"},{"title":"Alex","permalink":"/pt/blog/alex"}]}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkalextheking=self.webpackChunkalextheking||[]).push([[504],{2080:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/pt/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
