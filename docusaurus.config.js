@@ -5,8 +5,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "My Fucking Blog",
   tagline: "Bora fazer cuscuz",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://alexalannunes.github.io",
+  baseUrl: "/docusaurus-study/build/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
