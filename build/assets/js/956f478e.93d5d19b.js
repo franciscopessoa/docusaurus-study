@@ -1,1 +1,0 @@
-(self.webpackChunkalextheking=self.webpackChunkalextheking||[]).push([[771],{9229:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"js","name":"js","count":1,"permalink":"/blog/tags/js"}')}}]);

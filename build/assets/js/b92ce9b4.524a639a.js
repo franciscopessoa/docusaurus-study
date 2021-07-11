@@ -1,0 +1,1 @@
+(self.webpackChunkalextheking=self.webpackChunkalextheking||[]).push([[683],{2156:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docusaurus-study/build/blog/tags","slug":"js","name":"js","count":1,"permalink":"/docusaurus-study/build/blog/tags/js"}')}}]);
